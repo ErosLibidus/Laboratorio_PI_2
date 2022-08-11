@@ -2,7 +2,7 @@ streamlit
 pandas
 sodapy
 numpy
-matplotlib
+matplotlib.pyplot
 seaborn
 plotly
 streamlit_option_menu
